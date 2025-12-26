@@ -18,7 +18,7 @@ repository: https://github.com/zwo940/zwo940_app_vorrat
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 0.0.1+1
+version: 0.0.2+1
 
 environment:
   sdk: ^3.10.3
@@ -35,11 +35,11 @@ dependencies:
   zwo940_pkg_core:
     git:
       url: git@github.com:zwo940/zwo940_pkg_core.git
-      ref: v0.0.1
+      ref: v0.0.2
   zwo940_pkg_ui:
     git:
       url: git@github.com:zwo940/zwo940_pkg_ui.git
-      ref: v0.0.1
+      ref: v0.0.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

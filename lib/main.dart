@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2025 Marcus-Erich Seidler (https://zwo940.de)
+
 import 'package:flutter/material.dart';
 
 void main() {
